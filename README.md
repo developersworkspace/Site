@@ -1,5 +1,6 @@
 # Site
 
+Developer's Workspace develops open-source software solutions to allow development teams to never build the usual/common features of a software project again.
 
 The MIT License (MIT)
 =====================
